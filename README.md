@@ -15,10 +15,12 @@ personal-firewall/
 ├── logs/
 
 │ └── blocked_traffic.log # Blocked traffic log
+
 ├──  Screenshots
 
   ├── firewall_running.png
-│ ├── blocked_traffic_log.jpg
+  
+ ├── blocked_traffic_log.jpg
 
 └── README.md
 
@@ -62,7 +64,7 @@ logs/blocked_traffic.log
 
 📸 Screenshots
 
-[personal-firewall](screenshots/firewall.jpg)
+[firewall running](screenshots/firewall.jpg)
 
 
 
