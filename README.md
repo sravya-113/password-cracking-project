@@ -50,6 +50,8 @@ password-cracking-project/
 
 
 git clone https://github.com/sravya/password-cracking-project.git
+
+
 cd password-cracking-project
 
 🧪 Step 2: Generate Hashes
@@ -59,6 +61,7 @@ Run the following Python script to create MD5 hashes for sample passwords:
 
 
 python3 generate_hashes.py
+
 This will create a file hashes.txt like this:
 
 
@@ -66,13 +69,11 @@ This will create a file hashes.txt like this:
 🔓 Step 3: Crack with John the Ripper
 
 chmod +x crack_with_john.sh
+
 ./crack_with_john.sh
 
 john --show --format=raw-md5 hashes.txt
 
-
-⚡ Step 4: Crack with Hashcat (Optional)
-Make sure Hashcat is installed and your GPU is set up.
 
 
 chmod +x crack_with_hashcat.sh
@@ -107,7 +108,7 @@ Why MD5 is insecure.
 
 How dictionary attacks work.
 
-Screenshots of results (optional).
+Screenshots of results 
 
 Real-world implications.
 
