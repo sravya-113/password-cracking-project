@@ -64,7 +64,7 @@ logs/blocked_traffic.log
 
 📸 Screenshots
 
-[firewall running](screenshots/firewall.jpg)
+[firewall running](screenshots/firewall_running.jpg)
 
 
 
