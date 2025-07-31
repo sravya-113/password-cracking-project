@@ -8,10 +8,15 @@ This project showcases password cracking techniques using **John the Ripper**, *
 
 password-cracking-project/
 ├── generate_hashes.py # Python script to generate MD5 hashes
+
 ├── hashes.txt # Stores the hashed passwords
+
 ├── crack_with_john.sh # Bash script using John the Ripper
+
 ├── crack_with_hashcat.sh # Bash script using Hashcat
+
 ├── report.md # Project documentation
+
 ├── README.md # This file
 
 yaml
