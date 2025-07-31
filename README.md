@@ -7,11 +7,19 @@ A lightweight Python-based personal firewall that monitors network traffic in re
 ## 📁 Project Structure
 
 personal-firewall/
+
 ├── firewall.py # Main firewall script
+
 ├── config.json # Block/allow rules
+
 ├── logs/
+
 │ └── blocked_traffic.log # Blocked traffic log
-├── docs/images/ # Screenshots
+├──  Screenshots
+
+  ├── firewall_running.png
+│ ├── blocked_traffic_log.jpg
+
 └── README.md
 
 
@@ -54,11 +62,7 @@ logs/blocked_traffic.log
 
 📸 Screenshots
 
+[personal-firewall](screenshots/firewall.jpg)
 
-📄 License
-MIT License
-© [sravya] – github.com/sravya-113
 
-markdown
-Copy
-Edit
+
