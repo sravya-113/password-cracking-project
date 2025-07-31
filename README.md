@@ -51,6 +51,13 @@ Edit
 
 ---
 
+
+
+📷 Screenshot:
+
+(results)(scrrenshots/john_results.jpg)
+
+
 ## 🚀 How to Use
 
 ### Step 1: Clone the Repository
