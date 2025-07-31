@@ -24,9 +24,6 @@ password-cracking-project/
 
 └── report.md # Detailed project report 
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -55,7 +52,8 @@ Edit
 
 📷 Screenshot:
 
-(results)(scrrenshots/john_results.jpg)
+![John the Ripper Results](screenshot/john_results.jpg)
+
 
 
 ## 🚀 How to Use
