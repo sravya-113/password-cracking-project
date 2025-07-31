@@ -52,7 +52,7 @@ password-cracking-project/
 
 📷 Screenshot:
 
-![John the Ripper Results](screenshot/john_results.jpg)
+![John the Ripper Results](screenshots/john_results.jpg)
 
 
 
