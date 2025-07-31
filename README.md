@@ -129,9 +129,7 @@ GitHub: https://github.com/sravya
 ⭐ Like This Project?
 Give it a ⭐ on GitHub to show your support!
 
-yaml
-Copy
-Edit
+
 
 ---
 
