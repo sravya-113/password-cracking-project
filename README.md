@@ -74,7 +74,9 @@ Make sure Hashcat is installed and your GPU is set up.
 
 
 chmod +x crack_with_hashcat.sh
+
 ./crack_with_hashcat.sh
+
 Hashcat will attempt to crack hashes.txt using rockyou.txt.
 
 📄 Wordlist Setup
@@ -82,10 +84,14 @@ Make sure the rockyou.txt wordlist is extracted (Kali comes with it compressed):
 
 
 sudo gunzip /usr/share/wordlists/rockyou.txt.gz
+
 If it's missing, you can download it from trusted sources.
 
 📘 Sample Code Explanation
+
+
 generate_hashes.py
+
 Generates MD5 hashes for a list of sample passwords:
 
 
