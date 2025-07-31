@@ -19,11 +19,7 @@ password-cracking-project/
 
 ├── README.md # This file
 
-yaml
-Copy
-Edit
 
----
 
 ## 🎯 Objective
 
@@ -71,7 +67,6 @@ chmod +x crack_with_john.sh
 ./crack_with_john.sh
 
 john --show --format=raw-md5 hashes.txt
-Expected output:
 
 
 ⚡ Step 4: Crack with Hashcat (Optional)
