@@ -54,7 +54,7 @@ git clone https://github.com/sravya/password-cracking-project.git
 
 cd password-cracking-project
 
-🧪 Step 2: Generate Hashes
+🧪 Step 1: Generate Hashes
 
 Run the following Python script to create MD5 hashes for sample passwords:
 
