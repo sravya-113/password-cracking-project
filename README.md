@@ -7,6 +7,8 @@ This project showcases password cracking techniques using **John the Ripper**, *
 ## 📁 Project Structure
 
 password-cracking-project/
+
+
 ├── generate_hashes.py # Python script to generate MD5 hashes
 
 ├── hashes.txt # Stores the hashed passwords
