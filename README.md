@@ -38,15 +38,22 @@ Install requirements
 
 
 pip install scapy
+
 Update your rules in config.json
+
 Example:
 
 
 {
+
   "blocked_ips": ["192.168.1.100"],
+  
   "blocked_ports": [22, 445],
+  
   "allowed_protocols": ["TCP", "UDP"]
+  
 }
+
 Run the firewall (as admin/root)
 
 
@@ -59,8 +66,11 @@ Ping a blocked IP or port using:
 
 curl http://example.com
 nslookup google.com 8.8.8.8
+
 Blocked traffic is logged in:
+
 logs/blocked_traffic.log
+
 
 📸 Screenshots
 
