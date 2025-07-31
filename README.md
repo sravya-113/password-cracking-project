@@ -64,9 +64,7 @@ python3 generate_hashes.py
 This will create a file hashes.txt like this:
 
 
-5f4dcc3b5aa765d61d8327deb882cf99
-e10adc3949ba59abbe56e057f20f883e
-d8578edf8458ce06fbc5bb76a58c5ca4
+
 🔓 Step 3: Crack with John the Ripper
 
 chmod +x crack_with_john.sh
@@ -96,14 +94,6 @@ generate_hashes.py
 Generates MD5 hashes for a list of sample passwords:
 
 
-import hashlib
-
-passwords = ["password", "123456", "qwerty"]
-
-with open("hashes.txt", "w") as f:
-    for pwd in passwords:
-        hash_md5 = hashlib.md5(pwd.encode()).hexdigest()
-        f.write(hash_md5 + "\n")
 
 📎 report.md Includes
 What are hashing algorithms?
